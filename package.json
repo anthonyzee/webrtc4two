@@ -1,0 +1,17 @@
+{
+  "name": "webrtc4two",
+  "version": "0.0.0",
+  "description": "A framework for P2P communication using webRTC and Socket IO. Purpose is to make web-based P2P communication easily implemented.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.3.0",
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {"type":"svn", "url":"https://NL-4139.mimos.local/svn/kkzee/webrtc4two"},
+  "author": "Anthony Zee",
+  "license": "MIT"
+}
